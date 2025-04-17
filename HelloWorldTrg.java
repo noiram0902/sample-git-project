@@ -1,3 +1,3 @@
 Trigger HelloWorldTrg on Account(before insert,before update){
-	//System.debug('Hello World');
+	//System.debug('Hello World 123');
 }
